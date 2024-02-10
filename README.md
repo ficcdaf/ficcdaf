@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**isafic/isafic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Isa. I like to code & learn about computer security. I really like GNU+Linux.
 
-Here are some ideas to get you started:
+I'm a fifth year computing science student at Queen's University in Kingston.
+My research interests are security and GNU+Linux, and I am in the process of applying for a master's at Queen's.
 
 - 🔭 I’m currently working on ...
+  - 📱 My capstone project (MFA scheme & implementation)
+  - 📓 My Linux & NeoVim configs (always)
+  - 🔍 Grad school application
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - Rust & C programming
+  - Cryptography
+  - Japanese, German & Arabic
+- 📫 How to reach me:
+  - ✉️ [isa@fichtinger.ca](mailto:isa@fichtinger.ca)
+  - 📱 [Discord](https://discordid.netlify.app/?id=238345438564974592)
+- ⚡ Fun facts:
+  - I'm a native Hungarian speaker
+  - I can wiggle my ears
+  - I use arch btw
