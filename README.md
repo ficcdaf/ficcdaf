@@ -16,6 +16,7 @@ My research interests are security and GNU+Linux, and I am in the process of app
 - 📫 How to reach me:
   - ✉️ [isa@fichtinger.ca](mailto:isa@fichtinger.ca)
   - 📱 [Discord](https://discordid.netlify.app/?id=238345438564974592)
+  - 💻 [GitHub](https://github.com/isafic)
 - ⚡ Fun facts:
   - I'm a native Hungarian speaker
   - I can wiggle my ears
