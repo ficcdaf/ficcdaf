@@ -13,7 +13,7 @@ My research interests are security and GNU+Linux, and I am in the process of app
   - Rust & C programming
   - Cryptography
   - Japanese, German & Arabic
-- 📫 How to reach me:
+- 📫 Where to find me:
   - ✉️ [isa@fichtinger.ca](mailto:isa@fichtinger.ca)
   - 📱 [Discord](https://discordid.netlify.app/?id=238345438564974592)
   - 💻 [GitHub](https://github.com/isafic)
