@@ -20,4 +20,4 @@ My research interests are security and GNU+Linux, and I am in the process of app
 - ⚡ Fun facts:
   - I'm a native Hungarian speaker
   - I can wiggle my ears
-  - I use arch btw
+  - I use arch btw 😄
