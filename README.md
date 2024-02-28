@@ -10,7 +10,7 @@ My research interests are security and GNU+Linux, and I am in the process of app
   - 📓 My Linux & NeoVim configs (always)
   - 🔍 Grad school application
 - 🌱 I’m currently learning ...
-  - Rust & C programming
+  - Go & C programming
   - Cryptography
   - Japanese, German & Arabic
 - 📫 Where to find me:
