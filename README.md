@@ -2,6 +2,4 @@
 
 My name is Daniel. I like Linux, Neovim, and cyber security.
 
-Keep up with me at [ficd.ca](https://ficd.ca/).
-
-> Note: I will not be posting on my blog until my website builder, [Zona](https://github.com/ficcdaf/zona), is ready to use. Please consider starring the repo if you are interested in using it yourself!
+When I'm not working my on my Master's research, I can be found working on my Neovim config, coding various utilities or plugins, and petting my cat. 
