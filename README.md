@@ -1,5 +1,5 @@
 # Hi there 👋
 
-My name is Daniel. I like Linux, Neovim, and cyber security.
+My name is Daniel. I like Linux, Neovim, and cybersecurity.
 
-When I'm not working my on my Master's research, I can be found working on my Neovim config, coding various utilities or plugins, and petting my cat. 
+In my free time, I enjoy petting my cat.
