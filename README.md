@@ -31,5 +31,5 @@ I also like to code, and work on my keyboard setup. You're welcome to check out 
     </a>
 </div>
 
-> [!HINT]
+> [!NOTE]
 > This is in the [Ashen](https://github.com/ficcdaf/ashen.nvim) theme.
