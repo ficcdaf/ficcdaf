@@ -39,10 +39,10 @@ I also like to code, and work on my keyboard setup. You're welcome to check out 
 <!-- </a> -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-nu-kohl-48.vercel.app/api?username=ficcdaf&show_icons=true&title_color=B14242&text_color=b4b4b4&icon_color=C4693D&border_color=535353&bg_color=121212&rank_icon=github&include_all_commits=true&ring_color=D87C4A&card_height=200&card_width=300" />
+  <img height=200 align="center" src="https://github-readme-stats-nu-kohl-48.vercel.app/api?username=ficcdaf&show_icons=true&title_color=B14242&text_color=b4b4b4&icon_color=C4693D&border_color=535353&bg_color=121212&rank_icon=github&include_all_commits=true&ring_color=D87C4A&card_height=400&card_width=300" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img width=300 height=200 align="center" src="https://github-readme-stats-nu-kohl-48.vercel.app/api/top-langs/?username=ficcdaf&layout=compact&card_height=200&show_icons=true&title_color=B14242&text_color=b4b4b4&icon_color=C4693D&border_color=535353&bg_color=121212&hide=tex,php,html,css,perl&size_weight=0.7&count_weight=0.3&exclude_repo=urlshort,klsa-site,whiteboard,DUNGEON-MASTER-WEBGL,dark-wood-game,personal-website,github-readme-stats&card_height=400" />
+  <img width=300 height=200 align="center" src="https://github-readme-stats-nu-kohl-48.vercel.app/api/top-langs/?username=ficcdaf&layout=compact&card_height=200&show_icons=true&title_color=B14242&text_color=b4b4b4&icon_color=C4693D&border_color=535353&bg_color=121212&hide=tex,php,html,css,perl&size_weight=0.7&count_weight=0.3&exclude_repo=rustlings,urlshort,klsa-site,whiteboard,DUNGEON-MASTER-WEBGL,dark-wood-game,personal-website,github-readme-stats&card_height=400" />
 </a>
 
 > [!NOTE]
