@@ -1,6 +1,6 @@
 # Hi there, I'm Daniel 👋
 
-I'm a Master's student and software developer. You read read more about me on my website, [ficd.ca](https://ficd.ca).
+I'm a Master's student, cybersecurity researcher and software developer. I created the [Ashen](https://github.com/ficcdaf/ashen.nvim) theme.
 
 **Research Interests**
 
