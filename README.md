@@ -15,13 +15,20 @@ I'm a Master's student, cybersecurity researcher and software developer.
 
 **Main Projects**
 
-- [Ashen](https://github.com/ficcdaf/ashen.nvim): Dark, warm, muted color scheme for Neovim.
-- [Zona](https://github.com/ficcdaf/zona): Static site builder with a focus on simplicity and accessible defaults.
+- [Ashen](https://github.com/ficcdaf/ashen.nvim): Dark, warm, muted color scheme
+  for Neovim.
+- [Zona](https://github.com/ficcdaf/zona): Static site builder with a focus on
+  simplicity and accessible defaults.
 - Contributing to miscellaneous plugins.
 
 In my free time, I enjoy petting my cat.
 
-I also like to code, and work on my keyboard setup. You're welcome to check out my [custom layout](https://github.com/ficcdaf/zmk-config).
+**Fun Facts**
+
+- I type on the Colemak-DH keyboard layout
+  ([custom layout](https://github.com/ficcdaf/zmk-config) found here).
+- I can wiggle my ears.
+- I have a cat. He is very cute.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-nu-kohl-48.vercel.app/api?username=ficcdaf&show_icons=true&title_color=B14242&text_color=b4b4b4&icon_color=C4693D&border_color=535353&bg_color=121212&rank_icon=github&include_all_commits=true&ring_color=D87C4A&card_height=400&card_width=300" />
