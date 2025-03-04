@@ -4,14 +4,14 @@ I'm a Master's student, cybersecurity researcher and software developer.
 
 **Research Interests**
 
-- Web authentication.
+- Authentication.
 - Cryptography.
 
 **Development Interests**
 
 - Text editors, LSP.
-- CLI and TUI utilities.
-- Contributing to software that I use (e.g. [Helix](https://github.com/helix-editor/helix), [IWE](https://github.com/iwe-org/iwe)).
+- Linux utilities.
+- Contributing to software that I use (e.g. [Helix](https://github.com/helix-editor/helix), [Harper](https://github.com/Automattic/harper)).
 
 **Main Projects**
 
@@ -20,7 +20,7 @@ I'm a Master's student, cybersecurity researcher and software developer.
 - [Zona](https://github.com/ficcdaf/zona): Static site builder with a focus on
   simplicity and accessible defaults.
 
-In my free time, I enjoy petting my cat.
+In my free time, I enjoy petting my cat. And If you're interested, I host my dotfiles on [Codeberg](https://codeberg.org/ficcdaf/dotfiles).
 
 **Fun Facts**
 
