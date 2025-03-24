@@ -2,6 +2,10 @@
 
 I'm a Master's student, cybersecurity researcher and software developer.
 
+Note: I'm migrating some of my projects to sourcehut. My new projects will also be on that platform.
+
+[https://sr.ht/~ficd/](https://sr.ht/~ficd/)
+
 **Research Interests**
 
 - Authentication.
