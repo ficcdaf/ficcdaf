@@ -1,15 +1,9 @@
 # Daniel Fichtinger
 
-I like programming, Linux, and cybersecurity. You can learn more about me on my
-website: [ficd.ca](https://ficd.ca). Check my [now page](https://ficd.ca/now) if
-you want to know what I'm up to currently.
+I like programming, Linux, and cybersecurity.
 
-I host my projects on sourcehut: [sr.ht/~ficd](https://sr.ht/~ficd/) and
-[git.sr.ht/~ficd](https://git.sr.ht/~ficd/). You can contact me via email:
-[daniel@ficd.ca](mailto:daniel@ficd.ca)
+You can learn more about me on my website, [ficd.ca](https://ficd.ca). I keep a
+blog and post updates on my projects there.
 
-I contribute to existing projects on GitHub if this is where they're hosted. I
-continue to maintain GitHub mirrors for my projects that already have users
-expecting them to be here; but I primarily develop on sourcehut.
-
-My dotfiles are available [here](https://git.sr.ht/~ficd/dotfiles).
+I mainly hack on [sr.ht/~ficd](https://sr.ht/~ficd/). Check there if you want to
+see my latest code.
